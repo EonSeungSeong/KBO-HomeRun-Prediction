@@ -1,0 +1,5 @@
+# csv files
+*.csv
+
+# catboost model
+catboost_info/
